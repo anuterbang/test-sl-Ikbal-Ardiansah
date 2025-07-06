@@ -1,0 +1,32 @@
+# ========== LARAVEL ==========
+/data-pegawai-backend/vendor/
+/data-pegawai-backend/node_modules/
+/data-pegawai-backend/storage/*.key
+/data-pegawai-backend/public/storage
+/data-pegawai-backend/.env
+/data-pegawai-backend/.phpunit.result.cache
+/data-pegawai-backend/.vscode/
+/data-pegawai-backend/.idea/
+/data-pegawai-backend/.DS_Store
+
+# ========== REACT ==========
+/data-pegawai-frontend/node_modules/
+/data-pegawai-frontend/build/
+/data-pegawai-frontend/.env
+/data-pegawai-frontend/.DS_Store
+/data-pegawai-frontend/.vscode/
+/data-pegawai-frontend/.idea/
+
+# ========== GLOBAL ==========
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnp.*
+.pnpm-debug.log*
+*.sublime-project
+*.sublime-workspace
