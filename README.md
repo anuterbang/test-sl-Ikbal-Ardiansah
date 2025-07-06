@@ -2,7 +2,7 @@
 Sistem ini merupakan aplikasi manajemen data pegawai menggunakan:
 
 Frontend: ReactJs + Material MUI
-Backend: Laravel 10
+Backend: Laravel 12
 Database: MySQL
 
 Fitur utama:
